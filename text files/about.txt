@@ -1,0 +1,7 @@
+About BookShelf:
+
+Update: 0.0.1:
+    - Created application.
+    - Added Navigation (Tasks, Library, Account, Safety, and Help Menu).
+    - Added loading bar
+    - Added an update manager to the display.
